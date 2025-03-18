@@ -148,6 +148,9 @@ WHERE k.nazwa_uzytkownika IN ('brightwave88', 'thunderstrike40', 'oceanbreeze34'
 
 ![zapytanie](zapytanie_8.png)
 
+## Dokumentacja projektu
+
+<a href="https://github.com/Dominik-Filipiak/Projekt_SQL/blob/main/bazydanych.pdf" target="_blank"><button>Zobacz raport</button></a>  
 
 ## Autorzy
 Projekt został zrealizowany przez dwuosobowy zespół w ramach zajęć akademickich z Baz Danych.
