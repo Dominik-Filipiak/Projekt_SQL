@@ -19,7 +19,10 @@ Struktura bazy danych obejmuje kilka głównych encji, takich jak:
 - **KLIENT** - dane użytkowników systemu,
 - **SALA, MIEJSCE, RZĄD, FOTEL** - struktura sali kinowej i dostępność miejsc.
 
-Model encji i relacji został przedstawiony w pliku **kino.png**.
+Model encji:
+
+![Model Bazy Danych](kino_encje.png)
+
 
 ## Autorzy
 Projekt został zrealizowany przez dwuosobowy zespół w ramach zajęć akademickich z Baz Danych.
